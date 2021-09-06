@@ -1,0 +1,34 @@
+.emojiSection {
+  font-family: "Lexend Peta", sans-serif;
+  text-align: center;
+  --tw-bg-opacity: 1;
+  background-color: rgba(167, 243, 208, var(--tw-bg-opacity));
+  margin: auto;
+  padding: 2rem;
+  width: 100%;
+  max-width: 60rem;
+  border-radius: 2rem;
+  padding-top: 1rem;
+}
+
+.header {
+  font-size: 4rem;
+}
+
+.inputArea {
+  width: 80%;
+  height: 2rem;
+  border-radius: 1rem;
+  max-width: 20rem;
+}
+
+.outputArea {
+  font-family: "Hind", sans-serif;
+  font-size: 2rem;
+}
+
+.listArea {
+  padding: 1rem;
+  font-size: 4rem;
+  cursor: pointer;
+}
